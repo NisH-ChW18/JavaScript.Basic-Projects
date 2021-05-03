@@ -23,7 +23,7 @@ public class Electronic_Shop
             System.out.println("The Cost of Item 1 = "+ Cost1);
             System.out.println("The Cost of Item 2 = "+ Cost2);
             double Bill = Cost1 + Cost2;
-            System.out.println("The Bill without DISCOUNT is = "+ Bill);
+            System.out.println("The Bill WITHOUT DISCOUNT is = "+ Bill);
         {
         double Dis = 0.0;
         double Total_Bill = 0.0;
